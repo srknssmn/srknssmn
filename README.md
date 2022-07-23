@@ -9,8 +9,8 @@
 
 ### Languages and Tools:
 
-[![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
-)](https://remix.ethereum.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/tr/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/tr/) [![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
+)](https://remix.ethereum.org/)
 
 <!--
 **srknssmn/srknssmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
