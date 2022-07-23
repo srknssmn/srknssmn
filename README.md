@@ -1,6 +1,8 @@
 ## Hi there, I am Serkan!👋
 
-### 🛡 **I’m currently learning jave and solidity, working on** **[Pusula Finans](http://pusulafinans.com&theme=gradient)**
+### 🛡 **I’m currently learning jave and solidity, working on** **[Pusula Finans](http://pusulafinans.com)**
+### 🛡 **I’m currently learning jave and solidity, working on** <button class="btn btn-danger btn-lg" type="button"><a href="http://pusulafinans.com" target="_blank" rel="noopener"><span style="color: white;">AIRDROP</span></a></button>
+
 
 [![Tweet](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srknssmn)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srknssmn/)
