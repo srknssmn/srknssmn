@@ -10,7 +10,16 @@
 ### 🛠 Languages and Tools:
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/tr/) [![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
-)](https://remix.ethereum.org/)
+)](https://remix.ethereum.org/) [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+[![VSC](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://www.java.com/tr/) [![Int](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.java.com/tr/)
+
+
+
+[![PS](https://aleen42.github.io/badges/src/photoshop.svg)](https://git-scm.com/) [![Premier](https://aleen42.github.io/badges/src/premiere.svg)](https://git-scm.com/) [![AF](https://aleen42.github.io/badges/src/after_effects.svg)](https://git-scm.com/)
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srknssmn&show_icons=true&locale=en&layout=compact" alt="srknssmn" /></p>
 
