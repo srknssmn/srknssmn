@@ -1,7 +1,7 @@
 ## Hi there, I am Serkan!👋
 
 ### 🛡 **I’m currently learning coding and working at [Pusula Finans](http://pusulafinans.com)**
-### 🛡 **developer at** [![Tweet](https://www.pusulafinans.com/wp-content/uploads/2022/07/badge.png)](https://twitter.com/chaintalks)
+### 🛡 **developer at** [![Tweet](https://www.pusulafinans.com/wp-content/uploads/2022/07/badge.png)](https://linktr.ee/chaintalks)
 
 [![Tweet](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srknssmn)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srknssmn/)
@@ -13,7 +13,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/tr/) [![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
 )](https://remix.ethereum.org/) [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-[![VSC](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://www.java.com/tr/) [![Int](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.java.com/tr/)
+[![VSC](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/) [![Int](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 
 
