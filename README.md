@@ -1,6 +1,7 @@
 ## Hi there, I am Serkan!👋
 
 🛡 **I’m currently learning jave and solidity, working on [Pusula Finans](https://pusulafinans.com)**
+
 📧 [Gmail](srknssmn@gmail.com)
 
 [![Tweeting](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srknssmn)
