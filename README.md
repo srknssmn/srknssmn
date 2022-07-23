@@ -1,4 +1,4 @@
-### Hi there, I am Serkan!👋
+## Hi there, I am Serkan!👋
 
 - 🔭 I’m currently learning jave and solidity, working on [Pusula Finans](https://pusulafinans.com)
 
@@ -6,6 +6,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srknssmn/)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=srknssmn&show_icons=true&theme=gradient) 
+
+###Languages and Tools:
+[![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
+)](https://remix.ethereum.org/)
+
 
 <!--
 **srknssmn/srknssmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
