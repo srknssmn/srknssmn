@@ -1,7 +1,6 @@
 ### Hi there, I am Serkan!👋
 
-🔭 I’m currently working on cryptocurrency.
-🌱 I’m currently learning solidity.
+- 🔭 I’m currently learning jave and solidity, working on cryptocurrency.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/srknssmn/) 
 
