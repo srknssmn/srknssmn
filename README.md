@@ -1,7 +1,7 @@
 ## Hi there, I am Serkan!👋
 
 ### 🛡 **I’m currently learning coding and working at [Pusula Finans](http://pusulafinans.com)**
-### 🛡 **developer at** [![Tweet](https://www.pusulafinans.com/wp-content/uploads/2022/07/chaintalks-html-badge.png)](https://linktr.ee/chaintalks)
+### 🛡 **developer at** [![Chaintalks](https://www.pusulafinans.com/wp-content/uploads/2022/07/chaintalks-html-badge1111.png)](https://linktr.ee/chaintalks)
 
 [![Tweet](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srknssmn)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srknssmn/)
