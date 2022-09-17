@@ -1,6 +1,6 @@
 ## Hi there, I am Serkan!👋
 
-### 🛡 **I’m currently learning coding and working at [Pusula Finans](http://pusulafinans.com)**
+### 🛡 **I’m currently learning coding**
 ### 🛡 **interested in** [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org/en/)
 
 [![Tweet](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srknssmn)
