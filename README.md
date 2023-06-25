@@ -12,12 +12,6 @@
 [![PS](https://aleen42.github.io/badges/src/photoshop.svg)](https://git-scm.com/) [![Premier](https://aleen42.github.io/badges/src/premiere.svg)](https://git-scm.com/) [![AF](https://aleen42.github.io/badges/src/after_effects.svg)](https://git-scm.com/)
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srknssmn&show_icons=true&locale=en&layout=compact" alt="srknssmn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srknssmn&show_icons=true&locale=en" alt="srknssmn" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srknssmn&" alt="srknssmn" /></p>
 
 <!--
