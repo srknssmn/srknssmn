@@ -1,6 +1,6 @@
 ## Hi there, I am Serkan!👋
 
-### 🛡 **I’m currently learning Ethereum**
+### 🛡 **always learning.. Ethereum**
 
 [![Tweet](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srknssmn)
 
